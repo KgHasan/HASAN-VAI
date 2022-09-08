@@ -399,12 +399,12 @@ logo = ("""
 \x1b[1;92m $$/   $$/ $$/   $$/  $$$$$$/  $$/   $$/ $$/   $$/ 
 
    \x1b[1;92m╔═════════════════════════════╗
-   \x1b[1;92m║➣TOOL NAME : { HASAN-VAI }       ║
-   \x1b[1;92m║➣AUTHOR    : KgHasan             ║
-   \x1b[1;92m║➣WHATSAPP    : 01996636652       ║
-   \x1b[1;92m║➣FACEBOOK  : Hasa N              ║
-   \x1b[1;92m║➣Group     : KG Spamming Team    ║
-   \x1b[1;92m║➣WHATSAPP  : [ ERROR ]           ║
+   \x1b[1;92m║➣TOOL NAME : { HASAN-VAI }   ║
+   \x1b[1;92m║➣AUTHOR    : KgHasan         ║
+   \x1b[1;92m║➣WHATSAPP    : 01996636652   ║
+   \x1b[1;92m║➣FACEBOOK  : Hasa N          ║
+   \x1b[1;92m║➣Group     : KG Spamming Team║
+   \x1b[1;92m║➣WHATSAPP  : [ ERROR ]       ║
    \x1b[1;92m╚═════════════════════════════╝""")
 
 class Main:
@@ -1322,7 +1322,7 @@ def Subscraption():
 		print ("")
 		input(" Press Enter To Send Key")
 		time.sleep(3.5)
-		tks = 'Dear%20Admin,%20Please%20Approved%20My%20Key%20To%20Premium%20%20Thanks%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20My%20Name%20:%20'+name+'%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20My%20%20Key%20%20:%20'+ak+ahsan+''+key1
+		tks = 'Dear%20HASAN,%20Please%20Approved%20My%20Key%20To%20Premium%20%20Thanks%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20My%20Name%20:%20'+name+'%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20My%20%20Key%20%20:%20'+ak+ahsan+''+key1
 		os.system('am start https://wa.me/+8801996636652?text=' + tks)
 		Subscraption()        
 Subscraption()
