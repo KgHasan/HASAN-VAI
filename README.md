@@ -10,14 +10,24 @@ Command🥱🤙
 
 
 pkg install python
+
 pip install bs4
+
 pip install rich
+
 pip2 install mechanize
+
 pip2 install requests
+
 rm -rf HASAN-VAI
+
 git clone https://github.com/KgHasan/HASAN-VAI.git
+
 cd HASAN-VAI
+
 ls
+
+
 python 4.py
 
 
