@@ -11,26 +11,26 @@ My Facebook Group 🤙:https://facebook.com/groups/1763822120458146/
 Command🥱🤙
 
 
-pkg install python
+🥱pkg install python
 
-pip install bs4
+🥱pip install bs4
 
-pip install rich
+🥱pip install rich
 
-pip2 install mechanize
+🥱pip2 install mechanize
 
-pip2 install requests
+🥱pip2 install requests
 
-rm -rf HASAN-VAI
+🥱rm -rf HASAN-VAI
 
-git clone https://github.com/KgHasan/HASAN-VAI.git
+🥱git clone https://github.com/KgHasan/HASAN-VAI.git
 
-cd HASAN-VAI
+🥱cd HASAN-VAI
 
-ls
+🥱ls
 
 
-python 4.py
+🥱python 4.py
 
 
 
