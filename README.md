@@ -30,10 +30,10 @@ Command🥱🤙
 🥱ls
 
 
-🥱python 4.py
+🥱python Paid.py
 
 
 
-Paid tools Approval Free 😘
+Paid tools Approval  😘
 
 Enjoy My Tools 😘🤙
