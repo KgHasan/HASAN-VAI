@@ -30,7 +30,7 @@ Command🥱🤙
 🥱ls
 
 
-🥱python Paid.py
+🥱python Old_id.py
 
 
 
